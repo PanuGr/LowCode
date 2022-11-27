@@ -21,5 +21,5 @@ I'm relatively pleased and I will try again to build another layout
 
 
 ### Links
-- *<ins>[See the demo](https://panugr.github.io/nicepage-builder/hubble-curve-landing-page/)</ins>*
-- *<ins>[See the code](https://github.com/PanuGr/nicepage-builder/tree/main/hubble-curve-landing-page)</ins>*
+- *<ins>[See the demo](https://panugr.github.io/nicepage-builder/hubble-landing-page/)</ins>*
+- *<ins>[See the code](https://github.com/PanuGr/nicepage-builder/tree/main/hubble-landing-page)</ins>*
